@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": "git+https://github.com/mhaikalazizan/nodejs-template.git"
   },
   "keywords": [
     "node"
@@ -24,7 +24,7 @@
   "author": "mhaikalazizan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mhaikalazizan/node-js-template/issues"
+    "url": "https://github.com/mhaikalazizan/nodejs-template/issues"
   },
-  "homepage": "https://github.com/mhaikalazizan/node-js-template#readme"
+  "homepage": "https://github.com/mhaikalazizan/nodejs-template#readme"
 }
